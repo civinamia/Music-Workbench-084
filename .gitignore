@@ -1,0 +1,16 @@
+# 运行期自动生成的诊断日志（每次启动都会重写，不必入库）
+overlay.log
+*.log
+
+# Python / PyInstaller 缓存
+# 注意：不要用 *.py[cod]，它会连 *.pyd（Python 扩展模块，属运行必需）一起排除
+__pycache__/
+*.pyc
+*.pyo
+
+# 系统与编辑器垃圾
+Thumbs.db
+desktop.ini
+.DS_Store
+.idea/
+.vscode/

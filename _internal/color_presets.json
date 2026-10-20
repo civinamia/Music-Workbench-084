@@ -1,0 +1,9 @@
+[
+  {"name":"冷白极简","colors":{"scatter_text_color":"#F2F5FA","scatter_shadow_color":"#6B7B95","text_color_top":"#FFFFFF","text_color_mid":"#E5EBF4","text_color_bottom":"#B4C2D7","glow_color":"#6B7B95"}},
+  {"name":"暮色紫","colors":{"scatter_text_color":"#F4E9FF","scatter_shadow_color":"#A57CD6","text_color_top":"#FCF4FF","text_color_mid":"#E4C6FF","text_color_bottom":"#BD94EB","glow_color":"#A57CD6"}},
+  {"name":"海盐蓝","colors":{"scatter_text_color":"#E9F7FF","scatter_shadow_color":"#4389BB","text_color_top":"#F4FBFF","text_color_mid":"#C8EAFF","text_color_bottom":"#79B8E6","glow_color":"#4389BB"}},
+  {"name":"薄荷青","colors":{"scatter_text_color":"#E9FFF4","scatter_shadow_color":"#438D7B","text_color_top":"#F2FFF8","text_color_mid":"#BCEDDA","text_color_bottom":"#74C8AF","glow_color":"#438D7B"}},
+  {"name":"樱花粉","colors":{"scatter_text_color":"#FFF0F5","scatter_shadow_color":"#B86788","text_color_top":"#FFF8FB","text_color_mid":"#F6C9DC","text_color_bottom":"#DB91B0","glow_color":"#B86788"}},
+  {"name":"落日杏","colors":{"scatter_text_color":"#FFF2E4","scatter_shadow_color":"#B97745","text_color_top":"#FFF9EF","text_color_mid":"#FFDAB4","text_color_bottom":"#E8A46D","glow_color":"#B97745"}},
+  {"name":"黑白映画","colors":{"scatter_text_color":"#FAFAFA","scatter_shadow_color":"#454A54","text_color_top":"#FFFFFF","text_color_mid":"#E7E9EE","text_color_bottom":"#B9BEC8","glow_color":"#454A54"}}
+]
