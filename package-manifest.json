@@ -1,9 +1,9 @@
 {
-  "version": "1.3.0",
+  "version": "1.3.1",
   "files": [
     {
       "path": "Verseline.exe",
-      "sha256": "3DF6B5AA5481457523A23AC4AC4ABEF679CB3921C27ADBE1114A585C6E6C19AF"
+      "sha256": "96271C02C948BF03727177B8F3D5F024ABB724AC41507592C9ADE0D3D0C9CA89"
     },
     {
       "path": "_internal/81d243bd2c585b0f4821__mypyc.cp314-win_amd64.pyd",
@@ -71,7 +71,7 @@
     },
     {
       "path": "_internal/base_library.zip",
-      "sha256": "552EA41EE1FAB16FCA4F119866FA89C294E51DC9163E05862C8D767625F38CE2"
+      "sha256": "0003CF2521B947B420B523F4CB03BBC84EB058FD697607AA835FFB310C0FE33E"
     },
     {
       "path": "_internal/certifi/cacert.pem",
@@ -843,7 +843,7 @@
     },
     {
       "path": "_internal/VerselineCore.exe",
-      "sha256": "4294A29986B76B00735AB68C34AA46179C907A4C9FC474486B928BC660312554"
+      "sha256": "C413BCC2F8E5D4F380500EB1A04210BD489248DD02A9BFE327A29DE698056297"
     }
   ]
 }
