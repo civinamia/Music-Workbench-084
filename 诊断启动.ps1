@@ -1,15 +1,15 @@
-﻿param([switch]$NoPause)
+param([switch]$NoPause)
 $ErrorActionPreference = 'Continue'
 [Console]::OutputEncoding = New-Object System.Text.UTF8Encoding $false
 $root = $PSScriptRoot
 $report = Join-Path $root '启动诊断报告.txt'
 try { [IO.File]::WriteAllText($report, '', (New-Object Text.UTF8Encoding $false)) }
-catch { $report = Join-Path $env:TEMP '字幕工作台-启动诊断报告.txt' }
+catch { $report = Join-Path $env:TEMP '曲幕-启动诊断报告.txt' }
 function Record([string]$value) {
     $value | Out-File -LiteralPath $report -Append -Encoding UTF8
     Write-Host $value
 }
-Record ('字幕工作台启动诊断 ' + (Get-Date -Format 'yyyy-MM-dd HH:mm:ss'))
+Record ('曲幕启动诊断 ' + (Get-Date -Format 'yyyy-MM-dd HH:mm:ss'))
 Record ('系统：' + [Environment]::OSVersion.VersionString)
 Record ('64位系统：' + [Environment]::Is64BitOperatingSystem)
 Record ('程序目录：' + $root)
@@ -30,7 +30,7 @@ if (Test-Path -LiteralPath $manifest) {
 } else { Record '未找到完整性清单，请使用新版完整压缩包。' }
 $selfCheck = Join-Path $env:TEMP ('SubtitleWorkbench-check-' + $PID + '.json')
 $env:SUBTITLE_DIAGNOSTIC_MODE = '1'
-$exe = Join-Path $root '字幕工作台.exe'
+$exe = Join-Path $root 'Verseline.exe'
 try {
     $process = Start-Process -FilePath $exe -ArgumentList @('--self-check', ('"' + $selfCheck + '"')) -PassThru -WindowStyle Hidden
     if ($process.WaitForExit(70000)) {

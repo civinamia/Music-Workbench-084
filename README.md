@@ -1,9 +1,9 @@
-# 字幕工作台 · Windows 版
+# 曲幕 Verseline · Windows 版
 
 仿《边狱巴士》084 那套字幕的桌面歌词层。读网易云音乐或 QQ 音乐正在播放的歌曲，
 把当前这句歌词画在桌面最上层——全屏透明、置顶、鼠标穿透，不用切回播放器就能跟着唱。
 
-![字幕工作台](docs/preview/presets/desktop.png)
+![曲幕 Verseline](docs/preview/presets/desktop.png)
 
 当前版本 **1.2.1**，免安装，解压即用。
 
@@ -34,9 +34,9 @@
 ## 快速开始
 
 1. 下载本仓库（`Code → Download ZIP`）或 `git clone`，**完整解压**到桌面、文档这类普通文件夹。
-2. 双击 `字幕工作台.exe`。第一次运行如果弹出「Windows 已保护你的电脑」，点「更多信息 → 仍要运行」。
+2. 双击 `Verseline.exe`。第一次运行如果弹出「Windows 已保护你的电脑」，点「更多信息 → 仍要运行」。
 3. 打开网易云音乐或 QQ 音乐放一首歌，字幕就出来了。
-4. 想先看效果不放歌：`字幕工作台.exe --demo`。
+4. 想先看效果不放歌：`Verseline.exe --demo`。
 
 不需要安装 Python。`_internal` 是内置运行环境，**必须和 exe 放在一起**，单独拷一个 exe 是跑不起来的。
 
@@ -101,7 +101,7 @@
 ## 常见问题
 
 **放歌了但没有字幕**
-先看界面「当前播放」区域有没有识别到歌曲。没有的话运行 `字幕工作台.exe --dump`，
+先看界面「当前播放」区域有没有识别到歌曲。没有的话运行 `Verseline.exe --dump`，
 看 `sessions` 里有没有会话、`status` 是不是 `Playing`。纯音乐、播客、无版权歌曲没有官方歌词，
 句数显示 0 是正常的。也可以双击 `启动诊断.cmd` 生成一份环境报告。
 
@@ -122,7 +122,7 @@
 ## 目录结构
 
 ```
-字幕工作台.exe               入口（原生启动器）
+Verseline.exe               入口（原生启动器）
 _internal/                  内置 Python / Qt / 依赖，必须与 exe 同目录
 ui_assets/                  图标资源
 docs/licenses/              第三方许可证原文

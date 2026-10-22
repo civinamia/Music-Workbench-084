@@ -1,6 +1,6 @@
-字幕工作台 · Windows 便携版
+曲幕 Verseline · Windows 便携版
 
-双击 字幕工作台.exe 启动，无需安装 Python。
+双击 Verseline.exe 启动，无需安装 Python。
 此入口是原生 Windows 程序，内置运行环境位于 _internal。
 支持 Windows 10 / 11 64 位。请先完整解压压缩包，再启动 EXE。
 如果启动失败：双击“启动诊断.cmd”，将“启动诊断报告.txt”发给开发者。
