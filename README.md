@@ -5,7 +5,8 @@
 
 ![曲幕 Verseline](docs/preview/presets/desktop.png)
 
-当前版本 **1.2.1**，免安装，解压即用。
+当前版本 **1.3.0**，免安装，解压即用。本版更换了全新产品图标，窗口、托盘与 exe 统一为
+`ui_assets/verseline.ico`。
 
 ## 它做什么
 

@@ -1,0 +1,35 @@
+{
+  "unit_tests": 59,
+  "original_qt_integration": "passed",
+  "qq_qt_integration": "passed: pause/resume, seek, bilingual, source selection, provider isolation, single subtitle group, persistence",
+  "native_smtc_bridge": "starts and emits valid session JSON; QQ not running",
+  "qq_apis": {
+    "晴天": [
+      56,
+      0
+    ],
+    "群青": [
+      78,
+      78
+    ],
+    "夜に駆ける": [
+      67,
+      67
+    ]
+  },
+  "live_qq_player": "not tested; user will try later",
+  "icon": "user-selected original style, compact head portrait; 7 ICO sizes",
+  "packaged_exe": {
+    "path": "Verseline.exe",
+    "sha256": "baefa840c548711e877b7a61a446af439408854b493a5773ebe0834bf784c7ba",
+    "version": "1.3.0"
+  },
+  "config_preserved": true,
+  "packaged_checks": {
+    "qq_lyric_lookup_exit": 0,
+    "snapshot_exit": 0,
+    "startup": "responding, single instance",
+    "duplicate_exit": 2,
+    "without_python_on_path": true
+  }
+}

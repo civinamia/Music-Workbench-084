@@ -1,4 +1,4 @@
-param([switch]$NoPause)
+﻿param([switch]$NoPause)
 $ErrorActionPreference = 'Continue'
 [Console]::OutputEncoding = New-Object System.Text.UTF8Encoding $false
 $root = $PSScriptRoot
@@ -28,7 +28,7 @@ if (Test-Path -LiteralPath $manifest) {
     }
     Record ('完整性错误数：' + $missing)
 } else { Record '未找到完整性清单，请使用新版完整压缩包。' }
-$selfCheck = Join-Path $env:TEMP ('SubtitleWorkbench-check-' + $PID + '.json')
+$selfCheck = Join-Path $env:TEMP ('Verseline-check-' + $PID + '.json')
 $env:SUBTITLE_DIAGNOSTIC_MODE = '1'
 $exe = Join-Path $root 'Verseline.exe'
 try {
@@ -38,7 +38,7 @@ try {
         if (Test-Path -LiteralPath $selfCheck) { Record (Get-Content -LiteralPath $selfCheck -Raw -Encoding UTF8) }
     } else { Record '启动自检超过70秒，内部程序尚未退出。' }
 } catch { Record ('Windows 启动错误：' + $_.Exception.Message) }
-$startupLog = Join-Path $env:LOCALAPPDATA 'SubtitleWorkbench/startup.log'
+$startupLog = Join-Path $env:LOCALAPPDATA 'Verseline/startup.log'
 if (Test-Path -LiteralPath $startupLog) {
     Record "`n最近的启动日志："
     Record ((Get-Content -LiteralPath $startupLog -Tail 80 -Encoding UTF8) -join "`r`n")

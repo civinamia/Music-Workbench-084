@@ -1,9 +1,9 @@
 {
-  "version": "1.2.1",
+  "version": "1.3.0",
   "files": [
     {
       "path": "Verseline.exe",
-      "sha256": "12328C9262A47F7BC1A1268FD76ED784DA7023439152A74EBB1A76F8D6067478"
+      "sha256": "97C2F3F8C1B72C7CD01F9780BDD0294DD245620E6BA2999F75787A8A0CF35420"
     },
     {
       "path": "_internal/81d243bd2c585b0f4821__mypyc.cp314-win_amd64.pyd",
@@ -71,11 +71,15 @@
     },
     {
       "path": "_internal/base_library.zip",
-      "sha256": "1C90C4836EA13FB10715D050F5BD8334FE590DDD85B630BB36D4E56C9DF3C345"
+      "sha256": "1D1F63668C1A81DDB762DB7CC7882717E3395FB225D5CC5CC2ED0F92BDCC0133"
     },
     {
       "path": "_internal/certifi/cacert.pem",
       "sha256": "BBC7E9C01D7551BB8A159B5DEDD989B8EE3CE105AFF522B68EB1B01BF854CAB0"
+    },
+    {
+      "path": "_internal/certifi/py.typed",
+      "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
     },
     {
       "path": "_internal/charset_normalizer/cd.cp314-win_amd64.pyd",
@@ -280,6 +284,10 @@
     {
       "path": "_internal/numpy-2.5.1.dist-info/RECORD",
       "sha256": "3EFF7E64C14A4CDE798AD5F1648C5CF77C0C3497119A37055BE92ABFE537537B"
+    },
+    {
+      "path": "_internal/numpy-2.5.1.dist-info/REQUESTED",
+      "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
     },
     {
       "path": "_internal/numpy-2.5.1.dist-info/WHEEL",
@@ -798,10 +806,6 @@
       "sha256": "214DE59E5E9340D9BE3312FF5DC7B85D6328155B6CFC1DAD98C5701BF01BBE05"
     },
     {
-      "path": "_internal/SubtitleWorkbenchCore.exe",
-      "sha256": "E8B578B899C75A505388136913B521197A2D721206BE010CFDF9D73BCD4EDFA9"
-    },
-    {
       "path": "_internal/ui_assets/check.svg",
       "sha256": "3038C9DAAA9BB0A020A49152542992A57E5A0DBF0158067B5112517770A9809A"
     },
@@ -814,16 +818,16 @@
       "sha256": "A8A6DC4DC098D32F5715266A9DD5AD556D8460D8F5F8B75956FFD37995E83C3E"
     },
     {
-      "path": "_internal/ui_assets/dafeiyu-preview.png",
-      "sha256": "2A47205178A137435001E62E2714E318BB70DBBE59332B3AB9C82893ADFAE70A"
+      "path": "_internal/ui_assets/verseline-preview.png",
+      "sha256": "442BE7E6F3749ED0A11BE8BCC67EF177266D9DACC5A9B9A18267E8238F25FA4C"
     },
     {
-      "path": "_internal/ui_assets/dafeiyu.ico",
-      "sha256": "08CCF57FB99273D5864F6D8585F056F68B60E2C2A96413553C53015D391A1350"
+      "path": "_internal/ui_assets/verseline.ico",
+      "sha256": "4673C5FD8ED7A71E981E750911ABFAF32F255CBB0EE357197B4A532B18070739"
     },
     {
-      "path": "_internal/ui_assets/dafeiyu.png",
-      "sha256": "73200A8D690A831EBEC1699C44B31076CEABB4DE4F273D3912B3C008C97A80B9"
+      "path": "_internal/ui_assets/verseline.png",
+      "sha256": "4F9D3FA04BDAED735D55EC22F540C3F4E430C37004855385FEE40E764E2EA22E"
     },
     {
       "path": "_internal/unicodedata.pyd",
@@ -836,6 +840,10 @@
     {
       "path": "_internal/VCRUNTIME140_1.dll",
       "sha256": "6A99BC0128E0C7D6CBBF615FCC26909565E17D4CA3451B97F8987F9C6ACBC6C8"
+    },
+    {
+      "path": "_internal/VerselineCore.exe",
+      "sha256": "4A92AAA74C9D69401F059D3F108C6253E2A8AAB9D1C6A470FDD8663469095CB4"
     }
   ]
 }
