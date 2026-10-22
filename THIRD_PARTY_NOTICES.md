@@ -12,7 +12,7 @@ libraries and must remain with the executable.
   cryptography, cffi and setuptools: their respective license texts in `docs/licenses/`.
 - PyInstaller: GPL with the bootloader exception; see https://pyinstaller.org/en/stable/license.html.
 
-The 大肥鱼 application icon is an original AI-generated fan-inspired image made
-with the built-in image_gen tool for this project. The prompt and textual research
-reference are in `ui_assets/dafeiyu.prompt.md`; no third-party character illustration
-was downloaded or copied. It is used by the EXE, window and system tray.
+The 大肥鱼 application icon is an original illustration drawn for this project.
+It is shipped as `ui_assets/dafeiyu.png` with a seven-size `dafeiyu.ico`, and is
+used by the EXE resource, the window title bar and the system tray. No
+third-party illustration is copied or redistributed.

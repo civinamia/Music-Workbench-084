@@ -1,0 +1,841 @@
+{
+  "version": "1.2.1",
+  "files": [
+    {
+      "path": "字幕工作台.exe",
+      "sha256": "12328C9262A47F7BC1A1268FD76ED784DA7023439152A74EBB1A76F8D6067478"
+    },
+    {
+      "path": "_internal/81d243bd2c585b0f4821__mypyc.cp314-win_amd64.pyd",
+      "sha256": "AB64835B63093C31975DF2692756C8008E7EC190E4AA86F15A713BCC62E1D432"
+    },
+    {
+      "path": "_internal/_asyncio.pyd",
+      "sha256": "DC6DB118862AB3298E55E0F7C44C2C0DAE4AF9E810D2578271280202D6AA098A"
+    },
+    {
+      "path": "_internal/_bz2.pyd",
+      "sha256": "D28C3DD1C22BFB8A6E8A6A9C2359842B797D08E878ECB7805F60E86A45589D11"
+    },
+    {
+      "path": "_internal/_cffi_backend.cp314-win_amd64.pyd",
+      "sha256": "58BBE1EB15F9AB8E9EA45715A8311E2366B360D910A4685448BDD728D5177A01"
+    },
+    {
+      "path": "_internal/_ctypes.pyd",
+      "sha256": "25D9B0BE550D428FECC697CA20450343A7C3CE77C9F5283E9AECFD188D609250"
+    },
+    {
+      "path": "_internal/_decimal.pyd",
+      "sha256": "8D41A84DB20A9B985E98C802AD6833CF9625C744AD35478DD346F54F81488706"
+    },
+    {
+      "path": "_internal/_elementtree.pyd",
+      "sha256": "16F4D30A50FC25950762A8BBEF9DD6C5750729345539C224D489BE33E6D6F340"
+    },
+    {
+      "path": "_internal/_hashlib.pyd",
+      "sha256": "36CE760B9FAC53FE51755F30A68D86F5FDE89BF1B66C65C19E04AA3AFA404AC2"
+    },
+    {
+      "path": "_internal/_lzma.pyd",
+      "sha256": "5F7003F9F0256E36351CA2810B3485DB28579B08E4D1D65F6F211FCD1136F395"
+    },
+    {
+      "path": "_internal/_multiprocessing.pyd",
+      "sha256": "9E87CE081FBCF0B6596FCBA98E121379AD72A33D68E6B2AF7A8BCC5B900229BA"
+    },
+    {
+      "path": "_internal/_overlapped.pyd",
+      "sha256": "AC877F3DA413C1523C07B6A0DD1F7E0D7CEB3E8590A5E9E20A78EB1BCB700793"
+    },
+    {
+      "path": "_internal/_queue.pyd",
+      "sha256": "BB53357B4E91AC23ED4061F15FF3E5E91A5B3BE1CBB0C6CF294521AE5B4EFA1C"
+    },
+    {
+      "path": "_internal/_socket.pyd",
+      "sha256": "25AC83CAC32ED0D67B2CC9672CE64CB53F0A29A75B14C276E901023FF43DA5F9"
+    },
+    {
+      "path": "_internal/_ssl.pyd",
+      "sha256": "5C07572DF2913618CFB851B608CB5F74D740FCCE5C3F2E63DC0A2BA39AB35DAD"
+    },
+    {
+      "path": "_internal/_wmi.pyd",
+      "sha256": "0AB1FBCF18C95D70343012FEB1AAD61E1BA95AAED5B4A08E57FC5990E8A9A452"
+    },
+    {
+      "path": "_internal/_zstd.pyd",
+      "sha256": "262AEA62A994920DAF152A10BDC0CA83A8B1C0874E71DB23734862431DE182C6"
+    },
+    {
+      "path": "_internal/base_library.zip",
+      "sha256": "1C90C4836EA13FB10715D050F5BD8334FE590DDD85B630BB36D4E56C9DF3C345"
+    },
+    {
+      "path": "_internal/certifi/cacert.pem",
+      "sha256": "BBC7E9C01D7551BB8A159B5DEDD989B8EE3CE105AFF522B68EB1B01BF854CAB0"
+    },
+    {
+      "path": "_internal/charset_normalizer/cd.cp314-win_amd64.pyd",
+      "sha256": "DA3CE780D6D58AE8C6920B99F806F64D58A1B33F4A01382861B01B50549199F8"
+    },
+    {
+      "path": "_internal/charset_normalizer/md.cp314-win_amd64.pyd",
+      "sha256": "8E3E0A719A4EC835FBD9B3128636A09692FE173F4E01C527653BFDB7BD723808"
+    },
+    {
+      "path": "_internal/color_presets.json",
+      "sha256": "8CD472C62ACD9E2BF6CF98F62879E85A7917385506D48B2413FA828186689BC3"
+    },
+    {
+      "path": "_internal/cryptography/hazmat/bindings/_rust.pyd",
+      "sha256": "813B101F70EFB79C388239CE82AC891E195A1E19EEAEB43C32D9BF425E7B51B8"
+    },
+    {
+      "path": "_internal/cryptography-49.0.0.dist-info/INSTALLER",
+      "sha256": "CEEBAE7B8927A3227E5303CF5E0F1F7B34BB542AD7250AC03FBCDE36EC2F1508"
+    },
+    {
+      "path": "_internal/cryptography-49.0.0.dist-info/licenses/LICENSE",
+      "sha256": "3E0C7C091A948B82533BA98FD7CBB40432D6F1A9ACBF85F5922D2F99A93AE6BB"
+    },
+    {
+      "path": "_internal/cryptography-49.0.0.dist-info/licenses/LICENSE.APACHE",
+      "sha256": "AAC73B3148F6D1D7111DBCA32099F68D26C644C6813AE1E4F05F6579AA2663FE"
+    },
+    {
+      "path": "_internal/cryptography-49.0.0.dist-info/licenses/LICENSE.BSD",
+      "sha256": "602C4C7482DE6479DD2E9793CDA275E5E63D773DACD1ECA689232AB7008FB4FB"
+    },
+    {
+      "path": "_internal/cryptography-49.0.0.dist-info/METADATA",
+      "sha256": "1FC839D24EFC355F0E5C507AA807822BCA4371E732603B6D3E92B24038DEDED2"
+    },
+    {
+      "path": "_internal/cryptography-49.0.0.dist-info/RECORD",
+      "sha256": "BCC024766EA85E4BBA004DBE1A35D7598603BBA83B9F63EB9C58A931B3677843"
+    },
+    {
+      "path": "_internal/cryptography-49.0.0.dist-info/sboms/cryptography-rust.cyclonedx.json",
+      "sha256": "1EFDA14501A10FA09A8634355D52A54C8DFEFE2E1EB2869558645D18EA11E46D"
+    },
+    {
+      "path": "_internal/cryptography-49.0.0.dist-info/sboms/sbom.json",
+      "sha256": "3C84A13E98A66E600308A4691DE245E4F1C6CC1B818901A9D22FC5C1B69E006F"
+    },
+    {
+      "path": "_internal/cryptography-49.0.0.dist-info/WHEEL",
+      "sha256": "9F90C5E08E4AC0929E2DA8DA4B56C1D1A30A50AAD5056A3DCB069361FB0AFBDE"
+    },
+    {
+      "path": "_internal/libcrypto-3.dll",
+      "sha256": "53C529145339FB042A3DCD3A09C2D7753204F8B4FC79D99E0D31E69A33985958"
+    },
+    {
+      "path": "_internal/libffi-8.dll",
+      "sha256": "EFF52743773EB550FCC6CE3EFC37C85724502233B6B002A35496D828BD7B280A"
+    },
+    {
+      "path": "_internal/libssl-3.dll",
+      "sha256": "B17A87979862D19241EDC4318F967E24C3EC356ED6C2368F561179FAB2311001"
+    },
+    {
+      "path": "_internal/numpy/_core/_multiarray_tests.cp314-win_amd64.pyd",
+      "sha256": "7C6F3E0793C6EDE96204639B5798693786EFE9D35A5FAB7A86D4A5F9D559E229"
+    },
+    {
+      "path": "_internal/numpy/_core/_multiarray_umath.cp314-win_amd64.pyd",
+      "sha256": "AB5CEA76A0FAD4FD1BC58667AEFBA1382A7CE8C147B51CF3BFF53EEC4EFB4AB2"
+    },
+    {
+      "path": "_internal/numpy/fft/_pocketfft_umath.cp314-win_amd64.pyd",
+      "sha256": "0FB0D660B2B608A270828D34FB79D4E14B2C33E1BA799AAC7232B714E36A4742"
+    },
+    {
+      "path": "_internal/numpy/linalg/_umath_linalg.cp314-win_amd64.pyd",
+      "sha256": "8264D9D70A1A1D72793805A989FC5EBAB8D55970E44A829E1262FD58335FF8D5"
+    },
+    {
+      "path": "_internal/numpy/random/_bounded_integers.cp314-win_amd64.pyd",
+      "sha256": "52E8867A30524DB560F6FFE9B3EDB63BEAA8160DD349FFA9CB8EAEEFF786C486"
+    },
+    {
+      "path": "_internal/numpy/random/_common.cp314-win_amd64.pyd",
+      "sha256": "54809657FB43A25138617F9706EF781D9E9502B66A9A5366EA7BD76EED918F61"
+    },
+    {
+      "path": "_internal/numpy/random/_generator.cp314-win_amd64.pyd",
+      "sha256": "15215EE2AE4C1EC0960C29D433871A8E6BA4C392B8DEE367541FB736F9C6D4C6"
+    },
+    {
+      "path": "_internal/numpy/random/_mt19937.cp314-win_amd64.pyd",
+      "sha256": "434AB2857D104FF19C3B5008916197787FCC253339EABC66A16E4BDECFC1C74C"
+    },
+    {
+      "path": "_internal/numpy/random/_pcg64.cp314-win_amd64.pyd",
+      "sha256": "B469CBC850EE42A8CA5B5A9B58811D529FC0C7B65DBC7EB4B9D24B924B4B8D07"
+    },
+    {
+      "path": "_internal/numpy/random/_philox.cp314-win_amd64.pyd",
+      "sha256": "5B7FFD698D931ACADE2970FD318FA077E14F634ED08D32678A44C2997CEBC600"
+    },
+    {
+      "path": "_internal/numpy/random/_sfc64.cp314-win_amd64.pyd",
+      "sha256": "1E4D72BCCC8045C798D13529439D907CE1F1F2D40E6A635F7D4DE93D1F4CA9E6"
+    },
+    {
+      "path": "_internal/numpy/random/bit_generator.cp314-win_amd64.pyd",
+      "sha256": "D481331ECA4F875EB6E53A69D722C6BF03A915B6E2033F91DAF2BAD2EFCB7133"
+    },
+    {
+      "path": "_internal/numpy/random/mtrand.cp314-win_amd64.pyd",
+      "sha256": "CD83271CC04FB0219FB5D5CB06C5117F60291866A88E332B7C8E8276375D1344"
+    },
+    {
+      "path": "_internal/numpy-2.5.1.dist-info/DELVEWHEEL",
+      "sha256": "2C53EA25D905788EC003A8F7A4DEFE4212506DC760EE88E5CC7C8823D6848864"
+    },
+    {
+      "path": "_internal/numpy-2.5.1.dist-info/entry_points.txt",
+      "sha256": "EC26FADE0C8BDAC211A6C1DD003A65EB16885B925395423E93FCAA115AF4052C"
+    },
+    {
+      "path": "_internal/numpy-2.5.1.dist-info/INSTALLER",
+      "sha256": "CEEBAE7B8927A3227E5303CF5E0F1F7B34BB542AD7250AC03FBCDE36EC2F1508"
+    },
+    {
+      "path": "_internal/numpy-2.5.1.dist-info/licenses/LICENSE.txt",
+      "sha256": "A804DFF0EAD9FADC5293456410BCBFC32BF024BE9C4513459663FB7B442D2341"
+    },
+    {
+      "path": "_internal/numpy-2.5.1.dist-info/licenses/numpy/_core/include/numpy/libdivide/LICENSE.txt",
+      "sha256": "D544761558B510866C21F7E8A2D5716FCA76E0B98117E3B6B86314DB7244D150"
+    },
+    {
+      "path": "_internal/numpy-2.5.1.dist-info/licenses/numpy/_core/src/common/pythoncapi-compat/COPYING",
+      "sha256": "AEA41976C720F91BD19725C16916A1ACE40EB1EA42620D340E587A5DE4BBCEA0"
+    },
+    {
+      "path": "_internal/numpy-2.5.1.dist-info/licenses/numpy/_core/src/highway/LICENSE",
+      "sha256": "D208152E2777FFD0126EACC1BD21C0320D69E4E6B622D21A2A12A47E8EF73763"
+    },
+    {
+      "path": "_internal/numpy-2.5.1.dist-info/licenses/numpy/_core/src/multiarray/dragon4_LICENSE.txt",
+      "sha256": "B0FD592D4EAD563148E3977E7B589169D46A5EF2FF133C755A81AF880A3FC919"
+    },
+    {
+      "path": "_internal/numpy-2.5.1.dist-info/licenses/numpy/_core/src/npysort/x86-simd-sort/LICENSE.md",
+      "sha256": "A732977853530066790C42817087F4829B518DD98D340C916ACBFD227E39D3CB"
+    },
+    {
+      "path": "_internal/numpy-2.5.1.dist-info/licenses/numpy/_core/src/umath/svml/LICENSE",
+      "sha256": "585483905B13D4B42F800C55BA99E89D6E2E33CCD5F503E201C07531D148FF41"
+    },
+    {
+      "path": "_internal/numpy-2.5.1.dist-info/licenses/numpy/fft/pocketfft/LICENSE.md",
+      "sha256": "8DB000E158C162E7249787852D8C69764706502CCEE725C06641B31C1E95C8AF"
+    },
+    {
+      "path": "_internal/numpy-2.5.1.dist-info/licenses/numpy/linalg/lapack_lite/LICENSE.txt",
+      "sha256": "19060EF465E1797D682EE0FC3081BD25AB1395E995E43D25C9D13C95D9A3CD6B"
+    },
+    {
+      "path": "_internal/numpy-2.5.1.dist-info/licenses/numpy/ma/LICENSE",
+      "sha256": "D78DBB208B80D92B4D333E41A4BAAE50D12444F46E53199FA7726A91DE6E2DA7"
+    },
+    {
+      "path": "_internal/numpy-2.5.1.dist-info/licenses/numpy/random/LICENSE.md",
+      "sha256": "B4BC2F4FA1C95778F1ED3DD8F14706BECE399475B978F9F34B5D3CD72521B48A"
+    },
+    {
+      "path": "_internal/numpy-2.5.1.dist-info/licenses/numpy/random/src/distributions/LICENSE.md",
+      "sha256": "CF5619F25B112D5CE7C896EFFFC8E610BCB345DFADCC19F2C1460AA48FFF2C9E"
+    },
+    {
+      "path": "_internal/numpy-2.5.1.dist-info/licenses/numpy/random/src/mt19937/LICENSE.md",
+      "sha256": "92C10699884321F1C2947FE2A70AB23B0FBF1507F756D89DD08F38C61FC3D4FA"
+    },
+    {
+      "path": "_internal/numpy-2.5.1.dist-info/licenses/numpy/random/src/pcg64/LICENSE.md",
+      "sha256": "41190663B77BEE5302386495A07B7EABFBFA571AA0AE2F11DA6764162062FC4F"
+    },
+    {
+      "path": "_internal/numpy-2.5.1.dist-info/licenses/numpy/random/src/philox/LICENSE.md",
+      "sha256": "322AC46D870C8AEEAD6C53ADCCCC839296FB3C8E456EAE155081297DAF7F8013"
+    },
+    {
+      "path": "_internal/numpy-2.5.1.dist-info/licenses/numpy/random/src/sfc64/LICENSE.md",
+      "sha256": "28CAD82CE1379DC529DF30DA78EC012D7D0D1D576B03DDCB93388AEE53659F59"
+    },
+    {
+      "path": "_internal/numpy-2.5.1.dist-info/licenses/numpy/random/src/splitmix64/LICENSE.md",
+      "sha256": "454EC7350E478E037061850B67395753B425B1CB0A34BBC26290B020BF89D763"
+    },
+    {
+      "path": "_internal/numpy-2.5.1.dist-info/METADATA",
+      "sha256": "6AE45122EE97050E48849438320430D05F01814F72E66E69CBEED027D2C6A1E8"
+    },
+    {
+      "path": "_internal/numpy-2.5.1.dist-info/RECORD",
+      "sha256": "3EFF7E64C14A4CDE798AD5F1648C5CF77C0C3497119A37055BE92ABFE537537B"
+    },
+    {
+      "path": "_internal/numpy-2.5.1.dist-info/WHEEL",
+      "sha256": "CC5470F047694C6BAA5786778B2E707F26827A8311AA1DEA261A6C914AED193E"
+    },
+    {
+      "path": "_internal/numpy.libs/libscipy_openblas64_-b788215d9d47792bcba3a2e2a7114320.dll",
+      "sha256": "B788215D9D47792BCBA3A2E2A71143205A57282828A483F1FB071CA2C159F616"
+    },
+    {
+      "path": "_internal/numpy.libs/msvcp140-a4c2229bdc2a2a630acdc095b4d86008.dll",
+      "sha256": "A4C2229BDC2A2A630ACDC095B4D86008E5C3E3BC7773174354F3DA4F5BEB9CDE"
+    },
+    {
+      "path": "_internal/PIL/_avif.cp314-win_amd64.pyd",
+      "sha256": "D8BD3032B72992A8166144A4063BAE4A55C0F178D237454F17102301731E912A"
+    },
+    {
+      "path": "_internal/PIL/_imaging.cp314-win_amd64.pyd",
+      "sha256": "D823C0E3B54035D08703BB427C553C956C2607B79395F2952E17A5447C5F1105"
+    },
+    {
+      "path": "_internal/PIL/_imagingcms.cp314-win_amd64.pyd",
+      "sha256": "DFF90929DBEB9D51EEBF09F4454D0BEB65775F7644145A63D66FA8CA9F5A96FD"
+    },
+    {
+      "path": "_internal/PIL/_imagingmath.cp314-win_amd64.pyd",
+      "sha256": "A7B3D6E462D338744694BC332F9F6F9C5717D532B7A74AD2762B3289521D0D9E"
+    },
+    {
+      "path": "_internal/PIL/_imagingtk.cp314-win_amd64.pyd",
+      "sha256": "79208042672FF0B9E3669D5078AD35413470861E783FEEAF1430458C41036593"
+    },
+    {
+      "path": "_internal/PIL/_webp.cp314-win_amd64.pyd",
+      "sha256": "F4D851381D1BD937753BA78E951C96A85F3A6C5AC402BEEC23FC13FDB6D45198"
+    },
+    {
+      "path": "_internal/pyexpat.pyd",
+      "sha256": "133942BDE91FE43289076A0B50A01B265DF4EAD078617CCA6F6604A4166E1260"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/bin/d3dcompiler_47.dll",
+      "sha256": "E994847E01A6F1E4CBDC5A864616AC262F67EE4F14DB194984661A8D927AB7F4"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/bin/libEGL.dll",
+      "sha256": "32092DE077FD57B6EF355705EC46C6D21F6D72FBE3D3A5DD628F2A29185A96FA"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/bin/libGLESv2.dll",
+      "sha256": "50FAD5605B3D57627848B3B84A744DFB6A045609B8236B04124F2234676758D8"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/bin/MSVCP140.dll",
+      "sha256": "88F55D86B50B0A7E55E71AD2D8F7552146BA26E927230DAF2E26AD3A971973C5"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/bin/MSVCP140_1.dll",
+      "sha256": "446C48C1224C289BD3080087FE15D6759416D64F4136ADDF30086ABD5415D83F"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/bin/opengl32sw.dll",
+      "sha256": "963641A718F9CAE2705D5299EAE9B7444E84E72AB3BEF96A691510DD05FA1DA4"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/bin/Qt5Core.dll",
+      "sha256": "8D2FF4CE9096DDCCC4F4CD62C2E41FC854CFD1B0D6E8D296645A7F5FD4AE565A"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/bin/Qt5DBus.dll",
+      "sha256": "1AA70B106A10C86946E23CAA9FC752DC16E29FBE803BBA1F1AB30D1C63EE852A"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/bin/Qt5Gui.dll",
+      "sha256": "5E7D2D41B8B92A880E83B8CC0CA173F5DA61218604186196787EE1600956BE1E"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/bin/Qt5Network.dll",
+      "sha256": "4EF341AE9302E793878020F0740B09B0F31CB380408A697F75C69FDBD20FC7A1"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/bin/Qt5Qml.dll",
+      "sha256": "30035484C81590976627F8FACE9507CAA8581A7DC7630CCCF6A8D6DE65CAB707"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/bin/Qt5QmlModels.dll",
+      "sha256": "51E4E5A5E91F78774C44F69B599FAE4735277EF2918F7061778615CB5C4F6E81"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/bin/Qt5Quick.dll",
+      "sha256": "C81AD3C1111544064B1830C6F1AEF3C1FD13B401546AB3B852D697C0F4D854B3"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/bin/Qt5Svg.dll",
+      "sha256": "7348CFC6444438B8845FB3F59381227325D40CA2187D463E82FC7B8E93E38DB5"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/bin/Qt5WebSockets.dll",
+      "sha256": "6B56F77DA6F17880A42D2F9D2EC8B426248F7AB2196A0F55D37ADE39E3878BC6"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/bin/Qt5Widgets.dll",
+      "sha256": "3788C669D4B645E5A576DE9FC77FCA776BF516D43C89143DC2CA28291BA14358"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/bin/VCRUNTIME140.dll",
+      "sha256": "5E197A086B6A7711BAA09AFE4EA7C68F0E777B2FF33F1DF25A21F375B7D9693A"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/bin/VCRUNTIME140_1.dll",
+      "sha256": "1F0F5F2CE671E0F68CF96176721DF0E5E6F527C8CA9CFA98AA875B5A3816D460"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/plugins/generic/qtuiotouchplugin.dll",
+      "sha256": "A9BFFB0F3CD69CD775C328C916E46440FE80D99119FAEBC350C7EC51E3E57C41"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/plugins/iconengines/qsvgicon.dll",
+      "sha256": "42DDE60BEFCF1D9F96B8366A9988626B97D7D0D829EBEA32F756D6ECD9EA99A8"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/plugins/imageformats/qgif.dll",
+      "sha256": "36174DD4C5F37C5F065C7A26E0AC65C4C3A41FDC0416882AF856A23A5D03BB9D"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/plugins/imageformats/qicns.dll",
+      "sha256": "F4A229A082D16F80016F366156A2B951550F1E9DF6D4177323BBEDD92A429909"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/plugins/imageformats/qico.dll",
+      "sha256": "1982A635DB9652304131C9C6FF9A693E70241600D2EF22B354962AA37997DE0B"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/plugins/imageformats/qjpeg.dll",
+      "sha256": "FB4E980CB5FAFA8A4CD4239329AED93F7C32ED939C94B61FB2DF657F3C6AD158"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/plugins/imageformats/qsvg.dll",
+      "sha256": "B3498F0A10AC4CB42CF7213DB4944A34594FF36C78C50A0F249C9085D1B1FF39"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/plugins/imageformats/qtga.dll",
+      "sha256": "5B641DEC81AEC1CF7AC0CCE9FC067BB642FBD32DA138A36E3BDAC3BB5B36C37A"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/plugins/imageformats/qtiff.dll",
+      "sha256": "825174429CED6B3DAB18115DBC6C9DA07BF5248C86EC1BD5C0DCAECA93B4C22D"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/plugins/imageformats/qwbmp.dll",
+      "sha256": "0F05969FB926A62A338782B32446EA3E28E4BFBFFC0DBD25ED303FAB3404ABAC"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/plugins/imageformats/qwebp.dll",
+      "sha256": "6E37ACD0D357871F92B7FDE7206C904C734CAA02F94544DF646957DF8C4987AF"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/plugins/platforms/qminimal.dll",
+      "sha256": "05D1E7364DD2A672DF3CA44DD6FD85BED3D3DC239DCFE29BFB464F10B4DAA628"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/plugins/platforms/qoffscreen.dll",
+      "sha256": "54097626FAAE718A4BC8E436C85B4DED8F8FB7051B2B9563A29AEE4ED5C32B7B"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/plugins/platforms/qwebgl.dll",
+      "sha256": "9C3B2FA2383EEED92BB5810BDCF893AE30FA654A30B453AB2E49A95E1CCF1631"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/plugins/platforms/qwindows.dll",
+      "sha256": "3333BA244C97264E3BD19DB5953EFA80A6E47AACED9D337AC3287EC718162B85"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/plugins/platformthemes/qxdgdesktopportal.dll",
+      "sha256": "E23FBC1BEC6CEEDFA9FD305606A460D9CAC5D43A66D19C0DE36E27632FDDD952"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/plugins/styles/qwindowsvistastyle.dll",
+      "sha256": "D9B21182952682FE7BA63AF1DF24E23ACE592C35B3F31ECEEF9F0EABEB5881B9"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_ar.qm",
+      "sha256": "A8A1B0D6F958E7366D1C856BE61000106D3E7FC993FB931675369892B9002D0B"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_bg.qm",
+      "sha256": "9E1CE4D91852352043D9191F1A992838F919CBA7E2F2D9BB1161E494E8BF5F5E"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_ca.qm",
+      "sha256": "171C7424B24D8502AB53CB3784FF34D8FCFAE26557CF8AF4DFDDEC6485ACC2FE"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_cs.qm",
+      "sha256": "3C0CBFD19490D67D1B3B9E944C3A4D9A9E7F87D7AE35E88D5D5A0077349B5B21"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_da.qm",
+      "sha256": "B5036161CE808C728E5FDA985F792DB565831FD01CF00B282547790C037353A2"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_de.qm",
+      "sha256": "5805B8FF3747849794E2D70661D737C69C15F1AE763C38E17084B1E5A81E9153"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_en.qm",
+      "sha256": "9959B510B15D18937848AD13007E30459D2E993C67E564BADBFC18F935695C85"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_es.qm",
+      "sha256": "E25E43F046F61022FFE871A2F73C6A12EDFC5C3EFD958C0E019A721860A053B0"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_fa.qm",
+      "sha256": "B292AFB0763B8C7C30A5AF7372BFC12D8A0D00BF3DD4A000715D9F576D9C1A39"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_fi.qm",
+      "sha256": "048CA42DCE4FAF5FC21D843576E3C6FD963146ECC78554E7E5F34D07F64FB213"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_fr.qm",
+      "sha256": "8624033D849E670B12C9532337FCBF260F20848E044FEE7787CFE2AC92BE28DB"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_gd.qm",
+      "sha256": "49DF855A004A17950338AF3146466F6DF4D5852410BD0B58EA80E0D0203A9D24"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_gl.qm",
+      "sha256": "204A01AC7DEB6B5BAE193AFECBD1E50D18C73BF7D94BADEB2BBFDF6123C4ED93"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_he.qm",
+      "sha256": "C113D14E218D5402B616DABEA27969C6F83852676468C5EF051DDDEFB3EE0235"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_help_ar.qm",
+      "sha256": "222088C9752D1CC3BAB985EF2DC77E5AE78578DCE18A61EC15B39F02E588163D"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_help_bg.qm",
+      "sha256": "CBCDD1E0BBAE332D80DDB0A286056F17C824FA28D353D7FDF12FC97D9F6FE054"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_help_ca.qm",
+      "sha256": "ECD4283A660F2CF72849B323810D7EADD063120B6F561E05AA1243A5B280946A"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_help_cs.qm",
+      "sha256": "4AC56FC63E400943BAB13F1D4C418502138908E1D488C24AEE6131D3D17552AA"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_help_da.qm",
+      "sha256": "6BB092552A398687119F6D52145F04BF8373977446D8F00C0DCBD56B96829F0F"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_help_de.qm",
+      "sha256": "9962523FBAE9F1E4C3B5C3C16860D059291CB30DC5EBE5A5EDA4C836A03FED1E"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_help_en.qm",
+      "sha256": "9959B510B15D18937848AD13007E30459D2E993C67E564BADBFC18F935695C85"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_help_es.qm",
+      "sha256": "FD16B279F8CF69077F75E94D90C9C07A2AFFF3948A579E3789F5FFB5E5F4202D"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_help_fr.qm",
+      "sha256": "687E351C062F688AAFF6CF05218D6017B80B1A1B4238D1D30250A55EE41C5FED"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_help_gl.qm",
+      "sha256": "7399A248609974773F60866C87B78EA7DFBC4F750313D692F7886CD763883C9F"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_help_hu.qm",
+      "sha256": "70F33B569C2942F41C6D634EA6A61CB8D80EB2C7011BAD48EF6DBAE9677960D5"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_help_it.qm",
+      "sha256": "316FE8D0815E2B4B396895BEB38EF1A40431915B5E054DF80F4C0CD556F26E4B"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_help_ja.qm",
+      "sha256": "AE603B2C0D434D40CDE433FFCBA65F9EE27978A9E19316007BE7FE782A5B8B47"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_help_ko.qm",
+      "sha256": "F11C64694E8E34E1D2C46C1A1D15D6BA9F2DB7B61DE4FDF54ECA5AB977C3E052"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_help_pl.qm",
+      "sha256": "CC6CB4D8C54086224672F2E49E623C8CB7C0C1CD65B8D5ECD42FC9BA3A6065BD"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_help_ru.qm",
+      "sha256": "557B644E6DA5F1EC720EF93965617087E4D1F40B2494CC5AA524CF3796108DE7"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_help_sk.qm",
+      "sha256": "F41E33E1D790BD0D3EB180F1F875BC191FE74773628F25C2CAD95E1402E66867"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_help_sl.qm",
+      "sha256": "2EC955E662407EBCD8DCDAE5AAA21E4108E0B5B0AEE0E9DB712C27072943535F"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_help_tr.qm",
+      "sha256": "EBDECA0CFEE7A9441DEB800BABFD97C63BC4E421DA885C55B3BD49725EBACD25"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_help_uk.qm",
+      "sha256": "497CFC473684692EE44D7A3795E8FB2270C57069FD9EB98A615DD29AB9BE8A7C"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_help_zh_CN.qm",
+      "sha256": "C02AAA20923F18ADDAB520BE5CB84EFD4C723396BDC24B4C9A72D406F101C7B4"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_help_zh_TW.qm",
+      "sha256": "3697F1660D7F2AC9B37AC33CD1C7ECAE08ADBD26710E7E0076497CCDDC8BC830"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_hu.qm",
+      "sha256": "BB246AABD501E14CED8B1FFC1369E3D5D26567AAE62B3EAD4D94C22FB77C3471"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_it.qm",
+      "sha256": "9117AAC2D07BC86DFA55A29B8825ED27C7093300FCC90E143E135E00E85F09D7"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_ja.qm",
+      "sha256": "23457CE8E44E233C6F85D56A4EE6A2CECD87C9C7BDDE6D8B8A925902EED1CD9C"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_ko.qm",
+      "sha256": "4CC1AF37E771F0A43898849CFF2CD42A820451B8D2B2E88931031629D781DB05"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_lt.qm",
+      "sha256": "47EB5F97467DF769261421D54A5BEA1131C9FB9B6388791D38BB6574335B64BF"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_lv.qm",
+      "sha256": "03467738042A15676E504BA02CB326DCDB773B171FADA3CD62B7A0E0564314A0"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_pl.qm",
+      "sha256": "BD7DD0C2CAB119A973DC10C3BFF7499D9728B928B541F86056921B30C8DB78E6"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_pt.qm",
+      "sha256": "2C1E7BBF5168A64B43752DD4C547601C0BDE6D610F8671FA3E3AF38597E84783"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_ru.qm",
+      "sha256": "6492B267608C6FB76907BD8FCFC8F1EF57E9F4EBBC2E81ACA81715A88388F94A"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_sk.qm",
+      "sha256": "B6ADFFD889FF96BF195CB997327E7D7005A815CAD67823FA6915A19C2D9BB668"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_sl.qm",
+      "sha256": "C44E0313A9414CC0E490B65B0C036FA11BCA959353B228886547BC2C8492034F"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_sv.qm",
+      "sha256": "4B4B6FF7FD237C9DA0301B4946132E68653D15EB5FAF38E4C5FBFEBB12DD97F7"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_tr.qm",
+      "sha256": "F574A2CFD4715885C3DBDF5AE60995252673BD94FDAA9586F7E0586F6C1AC0EE"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_uk.qm",
+      "sha256": "F1621E680E1642F9463E4B07E7E78B50F9A7BDB7C321D7302039CB3405CBDEA4"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_zh_CN.qm",
+      "sha256": "28CDE75D7B32C81FEF1D4630C37B79A61DEC24B357632FF00D6365A57D8BE43B"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qt_zh_TW.qm",
+      "sha256": "751ECDA0C33E061D91241268357FBD2F6B7F70A1116E714F28D22EFD61EC7A1A"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qtbase_ar.qm",
+      "sha256": "E03FE68D83201543698FD7FE267DD5DFC5BFD195147E74FF2F19AC3491401263"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qtbase_bg.qm",
+      "sha256": "E448AC9E3F16C29EB27AF3012EFE21052DAA78FABFB34CD6DFF2F69EE3BD3CDB"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qtbase_ca.qm",
+      "sha256": "52E94FCC9490889B55812C5433D009B44BDC2DC3170EB55B1AF444EF4AAE1D7F"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qtbase_cs.qm",
+      "sha256": "03028B42DF5479270371E4C3BDC7DF2F56CBBE6DDA956A2864AC6F6415861FE8"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qtbase_da.qm",
+      "sha256": "7D1E5CA3310B54D104C19BF2ABD402B38E584E87039A70E153C4A9AF74B25C22"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qtbase_de.qm",
+      "sha256": "553C046835DB9ADEF15954FA9A576625366BA8BFD16637038C4BCD28E5EBACE1"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qtbase_en.qm",
+      "sha256": "9959B510B15D18937848AD13007E30459D2E993C67E564BADBFC18F935695C85"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qtbase_es.qm",
+      "sha256": "4FFDA56BA3BB5414AB0482D1DDE64A6F226E3488F6B7F3F11A150E01F53FA4C8"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qtbase_fi.qm",
+      "sha256": "E47FE13713E184D07FA4495DDE0C589B0E8F562E91574A3558A9363443A4FA72"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qtbase_fr.qm",
+      "sha256": "EDB32A933CEF376A2636634E14E2977CED6284E4AA9A4AC7E2292F9CA54C384A"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qtbase_gd.qm",
+      "sha256": "63B439DD44139AA3AED54C2EBE03FA9BC77F22C14ED8FBA8EFF2608445BB233D"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qtbase_he.qm",
+      "sha256": "E1EBCA16AFE8994356F81CA007FBDB9DDF865842010FE908923D873B687CAD3F"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qtbase_hu.qm",
+      "sha256": "C61B67BB9D1E84F0AB0792B6518FE055414A68E44D0C7BC7C862773800FA8299"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qtbase_it.qm",
+      "sha256": "7C7DC8B45BF4E41FEC60021AB13D9C7655BE007B8123DB8D7537A119EB64A366"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qtbase_ja.qm",
+      "sha256": "CBA382ACC44D3680D400F2C625DE93D0C4BD72A90102769EDFD1FE91CB9B617B"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qtbase_ko.qm",
+      "sha256": "0179ED1B136E1CB3F583351EAA2C545BA3D83A6EE3F82C32505926A1A5F5F183"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qtbase_lv.qm",
+      "sha256": "846E047573AE40C83671C3BA7F73E27EFC24B98C82701DA0DF9973E574178BB2"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qtbase_pl.qm",
+      "sha256": "CE99032A3B0BF8ABAD758895CC22837088EAD99FD2D2514E2D180693081CFE57"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qtbase_ru.qm",
+      "sha256": "3DA6605668F9178D11A838C4515478084DCFB4F9CF22F99D7A92B492DB9C224B"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qtbase_sk.qm",
+      "sha256": "D586AE2C314074CF398417FDECB40709D5478DFEB0A67C2FE60D509EE9B59ED7"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qtbase_tr.qm",
+      "sha256": "6A0BF6E70E7920C2B193E76E92F78F315936955D3B06AC039D917F2E06C43281"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qtbase_uk.qm",
+      "sha256": "51B8FF55B37DC5907D637A8DDDA12FBE816852B0244C74EB4F0FB84867A786E0"
+    },
+    {
+      "path": "_internal/PyQt5/Qt5/translations/qtbase_zh_TW.qm",
+      "sha256": "085D29EAF9BBB788B2F2503D74A1EF963A9411CEB600441254CE49A120E1AB63"
+    },
+    {
+      "path": "_internal/PyQt5/QtCore.pyd",
+      "sha256": "D6E45FD8C3B3F93F52C4D1B6F9E3EE220454A73F80F65F3D70504BD55415EA37"
+    },
+    {
+      "path": "_internal/PyQt5/QtGui.pyd",
+      "sha256": "A9408E3B15FF3030F0E9ACB3429000D253D3BB7206F750091A7130325F6D0D72"
+    },
+    {
+      "path": "_internal/PyQt5/QtWidgets.pyd",
+      "sha256": "A1E97A2AB434C6AE5E56491C60172E59CDCCE42960734E8BDF5D851B79361071"
+    },
+    {
+      "path": "_internal/PyQt5/sip.cp314-win_amd64.pyd",
+      "sha256": "D28ABBDD34489218C228DBBD3B6D2DFAD87E172E975E8D69D2E8F3C4D6D4D376"
+    },
+    {
+      "path": "_internal/python3.dll",
+      "sha256": "22C6E46D8BD563CDB072650901461EF68BE2EA6CB1E80AF859559D9395A27E39"
+    },
+    {
+      "path": "_internal/python314.dll",
+      "sha256": "FDE89CDB5C2D08AE65DE7EF4ABCA1876C93BA3796002F5AC0BF7E4D4F5A94DA0"
+    },
+    {
+      "path": "_internal/select.pyd",
+      "sha256": "FAB1B4CEE101359D82D72061B83CFF1855337B3677B9FE01CD69F7548F4C496E"
+    },
+    {
+      "path": "_internal/setuptools/_vendor/jaraco/text/Lorem ipsum.txt",
+      "sha256": "37FEDCFFBF73C4EB9F058F47677CB33203A436FF9390E4D38A8E01C9DAD28E0B"
+    },
+    {
+      "path": "_internal/smtc_bridge.ps1",
+      "sha256": "214DE59E5E9340D9BE3312FF5DC7B85D6328155B6CFC1DAD98C5701BF01BBE05"
+    },
+    {
+      "path": "_internal/SubtitleWorkbenchCore.exe",
+      "sha256": "E8B578B899C75A505388136913B521197A2D721206BE010CFDF9D73BCD4EDFA9"
+    },
+    {
+      "path": "_internal/ui_assets/check.svg",
+      "sha256": "3038C9DAAA9BB0A020A49152542992A57E5A0DBF0158067B5112517770A9809A"
+    },
+    {
+      "path": "_internal/ui_assets/chevron-up.svg",
+      "sha256": "5C0E9A7EF1E92CC6F958CCB62C7810B2B48772021E2C3D12FE8F2B89893EEBB4"
+    },
+    {
+      "path": "_internal/ui_assets/chevron.svg",
+      "sha256": "A8A6DC4DC098D32F5715266A9DD5AD556D8460D8F5F8B75956FFD37995E83C3E"
+    },
+    {
+      "path": "_internal/ui_assets/dafeiyu-preview.png",
+      "sha256": "2A47205178A137435001E62E2714E318BB70DBBE59332B3AB9C82893ADFAE70A"
+    },
+    {
+      "path": "_internal/ui_assets/dafeiyu.ico",
+      "sha256": "08CCF57FB99273D5864F6D8585F056F68B60E2C2A96413553C53015D391A1350"
+    },
+    {
+      "path": "_internal/ui_assets/dafeiyu.png",
+      "sha256": "73200A8D690A831EBEC1699C44B31076CEABB4DE4F273D3912B3C008C97A80B9"
+    },
+    {
+      "path": "_internal/unicodedata.pyd",
+      "sha256": "0D4F124B2D6622D276D777F7106972219F9B310EDB5DF8149C253DA7C013D6D8"
+    },
+    {
+      "path": "_internal/VCRUNTIME140.dll",
+      "sha256": "052AD6A20D375957E82AA6A3C441EA548D89BE0981516CA7EB306E063D5027F4"
+    },
+    {
+      "path": "_internal/VCRUNTIME140_1.dll",
+      "sha256": "6A99BC0128E0C7D6CBBF615FCC26909565E17D4CA3451B97F8987F9C6ACBC6C8"
+    }
+  ]
+}

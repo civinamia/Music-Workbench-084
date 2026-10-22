@@ -34,6 +34,8 @@ while ($true) {
 
     $sessions = @()
     try { $sessions = @($mgr.GetSessions()) } catch { $sessions = @() }
+    $currentApp = ''
+    try { $currentApp = [string]$mgr.GetCurrentSession().SourceAppUserModelId } catch { }
 
     foreach ($s in $sessions) {
         $o = [ordered]@{
@@ -44,12 +46,14 @@ while ($true) {
             status = ''
             pos    = 0.0
             dur    = 0.0
+            current = ([string]$s.SourceAppUserModelId -eq $currentApp)
         }
         try {
             $props = Await ($s.TryGetMediaPropertiesAsync()) ([Windows.Media.Control.GlobalSystemMediaTransportControlsSessionMediaProperties])
             if ($null -ne $props) {
                 $o.title = [string]$props.Title
                 $o.artist = [string]$props.Artist
+                if (-not $o.artist) { $o.artist = [string]$props.AlbumArtist }
                 $o.album = [string]$props.AlbumTitle
             }
         }
@@ -80,6 +84,7 @@ while ($true) {
         ok       = $true
         t        = [double]$now.ToUnixTimeMilliseconds()
         sessions = $list
+        current_app = $currentApp
     }
     try {
         $json = $payload | ConvertTo-Json -Compress -Depth 5
